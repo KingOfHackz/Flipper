@@ -113,7 +113,7 @@ Switch between UART Pins 13/14 and 15/16 setting in FlipperZero<br>
 
 Picture includes wiring pinout for the SD card mod too!
 
-# ESP32-CAM (Camera)
+# ESP32-CAM (Camera) - [FAP FILE HERE](https://github.com/Z4urce/flipperzero-camera/)!
 
 ![ESP32-CAM](https://user-images.githubusercontent.com/57457139/182571081-81df66a8-a536-426f-9ee0-ee277da5ef0a.png)
 
@@ -224,12 +224,12 @@ https://github.com/quen0n/FipperZero-DHT-Monitor
 # Custom PCB's
 ## Here's some repo's with designs for custom PCB's you can order or build using a prototype board.
 
-https://github.com/DrB0rk/Flipper-Zero-Boards
-https://github.com/Speexvocon/FlipperZeroHeaderExtender
-https://github.com/krolchonok/flipper-board
-https://github.com/AWOK559/Flipper_Zero_Boards
-https://github.com/TheOtherLonestar/RS-232-UART-Flipper
-https://github.com/oleksiikutuzov/flipperzero-flasher-board
+[DrB0rk](https://github.com/DrB0rk/Flipper-Zero-Boards)<br>
+[AWOK](https://github.com/AWOK559/Flipper_Zero_Boards)<br>
+[Speexvocon](https://github.com/Speexvocon/) ([ESP Expansion](https://github.com/Speexvocon/FlipperZeroESPexpansion) and [Header Extender](https://github.com/Speexvocon/FlipperZeroHeaderExtender))<br>
+[ushastoe](https://github.com/krolchonok/flipper-board)<br>
+[TheOtherLonestar](https://github.com/TheOtherLonestar/RS-232-UART-Flipper)<br>
+[Oleksii Kutuzov](https://github.com/oleksiikutuzov/flipperzero-flasher-board)
 
 -----
 
